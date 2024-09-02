@@ -4,6 +4,7 @@
 <template>
   <div>
     <span class="bg-red-500">hello</span>
+    <SayHello />
   </div>
 </template>
 
